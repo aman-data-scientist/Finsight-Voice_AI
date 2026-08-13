@@ -1,0 +1,7 @@
+[
+  {
+    "ocr_text": "Coffee Shop\n08/11/2026\nTotal $12.45",
+    "expected_vendor": "Coffee Shop",
+    "expected_total": "$12.45"
+  }
+]

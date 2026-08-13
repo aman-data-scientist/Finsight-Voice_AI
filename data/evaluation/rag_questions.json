@@ -1,0 +1,19 @@
+[
+  {
+    "question": "What was Apple's revenue in 2024?",
+    "expected_company": "Apple",
+    "expected_year": 2024,
+    "expected_section_hint": "Consolidated Statements of Operations"
+  },
+  {
+    "question": "Compare Apple's revenue with Microsoft's revenue.",
+    "expected_company": "Apple",
+    "expected_year": 2024
+  },
+  {
+    "question": "What risks did Tesla describe in its 2024 10-K?",
+    "expected_company": "Tesla",
+    "expected_year": 2024,
+    "expected_section_hint": "Risk Factors"
+  }
+]

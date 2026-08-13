@@ -1,0 +1,15 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+data/raw/
+data/vectorstore/
+data/processed/
+*.wav
+*.mp3
+*.jpg
+*.jpeg
+*.png
+*.pdf
